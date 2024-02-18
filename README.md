@@ -1,5 +1,4 @@
 # Hello there! 👋 I'm Jalaj Shukla!
-I am - a Researcher, an Engineer, an Origamist, a Poet, and an Aquascaper<br/>
 +1(267) 206-5968 |  jalajs@seas.upenn.edu | [LinkedIn](https://www.linkedin.com/in/jalajshukla/)
 
 ## BIO
