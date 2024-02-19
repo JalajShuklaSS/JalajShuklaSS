@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Jalaj Shukla!
-+1(267) 206-5968 |  jalajs@seas.upenn.edu | [LinkedIn](www.linkedin.com/in/jalaj-shukla-635005167)
++1(267) 206-5968 |  jalajs@seas.upenn.edu | [LinkedIn](https://www.linkedin.com/in/jalaj-shukla-635005167)
 
 ## BIO
 Hello, I'm Jalaj Shukla, a passionate researcher and an Engineer. I have a strong background in robotics and mechatronics, and I am currently pursuing my Master's in Science with a focus on Robotics and Mechatronics Systems at the University of Pennsylvania. Besides my technical pursuits, I am also an origamist and poet, adding a creative touch to my journey. ✨
